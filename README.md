@@ -1,2 +1,2 @@
-# Prácticas en PHP
+# PHP
 Prácticas en lenguaje PHP
